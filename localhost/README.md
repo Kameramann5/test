@@ -1,3 +1,15 @@
+Библиотека Yii 
+Права админа:<br>
+<i class="glyphicon glyphicon-check" style="color: #28a745;"></i>- Видит всех клиентов, может редактировать и удалять их.</label><br>
+<i class="glyphicon glyphicon-check" style="color: #28a745;"></i>- Может создавать книги, редактировать и удалять их.</label><br>
+<i class="glyphicon glyphicon-check" style="color: #28a745;"></i>- Может выдавать книги (подтверждать запрос от клиентов).<br>
+Права клиента:<br>
+<i class="glyphicon glyphicon-check" style="color: #28a745;"></i>- Может смотреть и редактировать свой профиль.<br>
+<i class="glyphicon glyphicon-check" style="color: #28a745;"></i>- Может делать запрос на получение книги.<br>
+<i class="glyphicon glyphicon-check" style="color: #28a745;"></i>- Может просматривать книги, находящиеся у него (выданные админом).<br>
+<i class="glyphicon glyphicon-check" style="color: #28a745;"></i>- Может возвращать книги, находящиеся у него.<br>
+ 
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
